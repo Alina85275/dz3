@@ -10,5 +10,5 @@
 7. git commit -m - создание коммита
 8. git checkout - перемещение между сохранениями
 9. git checkout master - вернуться
-
+![giizobr](git.png)
 **Спасибо за внимание!**
